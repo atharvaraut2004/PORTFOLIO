@@ -144,3 +144,7 @@ form .box{
     border-radius: 5px;
     width: 450px;
 }
+
+#main{
+    border-radius: 100px;
+}
