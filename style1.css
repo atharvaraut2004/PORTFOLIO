@@ -1,0 +1,73 @@
+
+body{
+   background-color: black; 
+}
+
+
+
+h1{
+    color: rgb(255, 100, 13);
+    text-align: center;
+    text-decoration: white wavy underline;
+    margin-top: 10px;
+    font-size: 40px;
+    /* padding-left: 600px; */
+}
+
+#module{
+        text-decoration: rgb(255, 100, 13) wavy underline;
+        padding-left: 550px;
+        margin-bottom: 10px;
+}
+
+h2{
+    color: white;
+}
+
+h3{
+    color: white;
+    font-size: 25px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+h4{
+    color: rgb(250, 100, 13);
+    font-family:monospace;
+    font-size: 20px;
+ }
+
+#a{
+    font-weight: lighter;
+    display:flex;
+
+}
+
+#b{
+    justify-content: center;
+    padding-inline: 50px;
+}
+
+#vs{
+    width: 100px;
+    height: 100px;
+}
+#github{
+    width: 100px;
+    height: 100px;
+}
+
+Button:hover{
+    background: rgb(255, 100, 13);
+    color: rgb(5, 8, 1);
+    box-shadow: 0 0 5px ,
+                0 0 25px rgb(255, 100, 13),
+                0 0 50px rgb(255, 100, 13) ,
+                0 0 200px rgb(255, 100, 13);
+}
+Button{
+    background-color: black;
+    color: white;
+    font-family:monospace;
+    font-size: 15px;
+    border-radius: 8px;
+}
