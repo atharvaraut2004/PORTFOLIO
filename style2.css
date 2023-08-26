@@ -79,3 +79,7 @@ Button{
     border-width: 5px;
 
  }
+#cnc{
+    display: flex;
+    justify-content: space-between;
+  }
