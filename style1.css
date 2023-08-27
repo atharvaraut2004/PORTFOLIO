@@ -71,3 +71,12 @@ Button{
     font-size: 15px;
     border-radius: 8px;
 }
+#vsimg{
+    display: flex;
+    padding-left: 70px;
+    justify-content: space-around;
+}
+#vimg{
+    width: 400px;
+    height: 300px;
+}
